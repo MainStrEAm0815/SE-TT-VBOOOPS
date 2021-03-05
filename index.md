@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+---
 
-You can use the [editor on GitHub](https://github.com/MainStrEAm0815/SE-TT-VBOOOPS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_** Captain's speaking: _ Start of line 0 **
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+# verbose-sniffle
+These are some notes nearby given into the knowledge of public.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ ---
 
-```markdown
-Syntax highlighted code block
+## _Get some notes of inspired mind..._
+So congratualations first, that you found to be here right now! Top all these followings, based on the question about a virtual operating system, that runs on any popular devices. So the mission was a research the best way for as first. Evaluated Options were differently ways and requirements. So finally the base would be a webkit-compatible HTML file, that includes anything to start out to anything else.
 
-# Header 1
-## Header 2
-### Header 3
+This is a very very crazy kind of all in one! 
 
-- Bulleted
-- List
+## _Let's take a look inside of how to hell the code is constructed..._
 
-1. Numbered
-2. List
+Not just our homelands for, we start at the dance in plain/html. Here may nothing to be secret, to lets something to be secret for!
 
-**Bold** and _Italic_ and `Code` text
+The privacy socks out of the base. The requirements inside a html-file allows data:base64 encoded content. So it can be used to pipe something through the src or value attributes. Here you will find just CSS and JavaScript, icons and images as included as parts of the parts. They are reduced to the minimal as required to the functional.
 
-[Link](url) and ![Image](src)
-```
+So secure the base there are the regular entries to prevent from XSS etc. It follows a frameset of multiple frames. Sure I could try the way of the grid, but thats not the same than a frameset. Short said, a every frame contains an own full functional browserwindow. Every of it its an autonomous, but syncable from async. To bring us the main stage of AES and SHA512 we use JavaScript from SRC inside BASE64 and DATASET into the SRC of FRAMES.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## _What happens from this?_
 
-### Jekyll Themes
+If the file is damaged, the window may be white in the damaged area. Its a tactical multiple parallel serialized encapsulated of a reverse unpacking success. Thats it!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MainStrEAm0815/SE-TT-VBOOOPS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## _Some pretty minds into the base functional asset._
 
-### Support or Contact
+The basics that we need is be able to read, write, edit and delete data in memory. Simpliest kind of that will be a set of char, if a string is like a table.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any DATA which would to be stored will be crypted in a DB without a password. So if somebody steal that DB, its a long long way to uncrypt successfully. Such as known, you never know, what you gonna get. 
+
+The great is the simple mind, that it runs on any popular device in even of the popular browsers. Inside the BASE is a frameset functional pack, a ghost will be in the hidden. No installation required, runs as standalone. 
+
+---
+
+_** Captain's speaking: End of line. **_
+
+---
