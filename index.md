@@ -1,6 +1,6 @@
 ## verbose-sniffle
 
-_ ** Captain's speaking: **_ 
+_**Captain's speaking:**_ 
 
 [`Start of line 0`](./)
 
