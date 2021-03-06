@@ -6,7 +6,7 @@ _** Captain's speaking: _ Start of line 0 **
 
 -[`# verbose-sniffle`](./)
 
--[`These are some notes nearby given into the knowledge of public.`](./)
+-`These are some notes nearby given into the knowledge of public.`
 
  ---
 
