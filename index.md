@@ -1,7 +1,7 @@
 ## verbose-sniffle
 
 ---
-_**Captain's speaking:**_ [`Start of line 0`](./)
+_**Captain's speaking:**_ [`Start of line 0`](/Start/)
 
 `These are some notes nearby given into the knowledge of public.`
 ---
@@ -32,7 +32,7 @@ _**Captain's speaking:**_ [`Start of line 0`](./)
 `The great is the simple mind, that it runs on any popular device in even of the popular browsers. Inside the BASE is a frameset functional pack, a ghost will be in the hidden. No installation required, runs as standalone.`
 
 ---
-_**Captain's speaking:**_ [`End of line.`](/Start/)
+_**Captain's speaking:**_ [`End of line.`](./)
 
 ---
 _That's all folks!_
