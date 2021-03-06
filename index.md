@@ -1,10 +1,10 @@
 ## verbose-sniffle
 
+---
 _**Captain's speaking:**_ [`Start of line 0`](./)
 
 `These are some notes nearby given into the knowledge of public.`
-
- ---
+---
 
 ## _Get some notes of inspired mind..._
 `So congratualations first, that you found to be here right now! Top all these followings, based on the question about a virtual operating system, that runs on any popular devices. So the mission was a research the best way for as first. Evaluated Options were differently ways and requirements. So finally the base would be a webkit-compatible HTML file, that includes anything to start out to anything else.`
@@ -32,7 +32,5 @@ _**Captain's speaking:**_ [`Start of line 0`](./)
 `The great is the simple mind, that it runs on any popular device in even of the popular browsers. Inside the BASE is a frameset functional pack, a ghost will be in the hidden. No installation required, runs as standalone.`
 
 ---
-
-_** Captain's speaking: [`End of line.`](/Start/) **_
-
+_**Captain's speaking:**_ [`End of line.`](/Start/)
 ---
