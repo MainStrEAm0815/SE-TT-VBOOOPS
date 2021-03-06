@@ -1,7 +1,8 @@
----
 ## verbose-sniffle
 
-_ ** Captain's speaking: **_ [`Start of line 0`](./)
+_ ** Captain's speaking: **_ 
+
+[`Start of line 0`](./)
 
 `These are some notes nearby given into the knowledge of public.`
 
