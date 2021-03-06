@@ -36,6 +36,29 @@ _**Captain's speaking:**_ [`End of line.`](./)
 
 ---
 
-## _That's all folks!_
+## _That's all folks!_ ##
 
 ---
+
+**ps:** _It's an own thing, a little bit unorthodox too. If you're using it on a clean, autark browser, so your privacy my much more real than your regular browser. The encryption is a multilevel encapsulation on different keys. So the transport security through https is a formal act. Actually using AES-256 and SHA-512, maybe switchable later, if something better is available. By these way everybody can Start its own Crypted Universe without a provider of a service. I know, that the most pepole will construct their own Planetary._
+
+_The audience will run a own instance to itself. It may be configurable simpliest as possible for building a variform of Groups, Blogs, Chats and more within internal right-management. You may build own Networks out of the public giants. The parts are tricky to be realized behind the scene. The educational is change today up next level._
+
+**FEATURE-LIST**
+
+`use strict;`
+
+- Upcoming :: 1st PRE-Release :: The explained Frameset with empty functional
+- Upcoming :: Adding Features :: ToolBox :: AES-256 & SHA-512 for the crypt functionality
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for RAM into toolbox
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for local Storages
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Local Hero Right Management
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Network
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Groups
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Chats
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Blogs
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Stlyes
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Services
+
+_... step by step ..._
+
