@@ -1,6 +1,6 @@
 ---
 
-_** Captain's speaking: [`Start of line 0`](./) **_
+_ ** Captain's speaking: [`Start of line 0`](./) ** _
 
 ---
 
