@@ -27,34 +27,34 @@ If you think, it's crypted, maybe! There are many ways to format a content. We u
 
 - FRAME 1 SRC DATA:BASE64
 - \ -> HTML JS DATA:BASE64
--  |-> CONTENT DATA:(AES256, SHA512)
--  |-> CONFIG5 DATA:(AES256, SHA512)
-- - \ -> HTML5 DATA:BASE64
+- - -> CONTENT DATA:(AES256, SHA512)
+- - -> CONFIG5 DATA:(AES256, SHA512)
+- - - -> HTML5 DATA:BASE64
 - - - \ -> APP DATA:BASE64
-- - - | -> APP CONTENT DATA:(AES256, SHA512)
-- - - | -> APP CONFIG DATA:(AES256, SHA512)
+- - - - -> APP CONTENT DATA:(AES256, SHA512)
+- - - - -> APP CONFIG DATA:(AES256, SHA512)
 
 ---
 
 - FRAME 2 SRC DATA:BASE64
 - \ -> HTML JS DATA:BASE64
--  |-> CONTENT DATA:(AES256, SHA512)
--  |-> CONFIG5 DATA:(AES256, SHA512)
+- - -> CONTENT DATA:(AES256, SHA512)
+- - -> CONFIG5 DATA:(AES256, SHA512)
 - - \ -> HTML5 DATA:BASE64
 - - - \ -> APP DATA:BASE64
-- - - | -> APP CONTENT DATA:(AES256, SHA512)
-- - - | -> APP CONFIG DATA:(AES256, SHA512)
+- - - - -> APP CONTENT DATA:(AES256, SHA512)
+- - - - -> APP CONFIG DATA:(AES256, SHA512)
 
 ---
 
 - FRAME 3 SRC DATA:BASE64
 - \ -> HTML JS DATA:BASE64
--  |-> CONTENT DATA:(AES256, SHA512)
--  |-> CONFIG5 DATA:(AES256, SHA512)
+- - -> CONTENT DATA:(AES256, SHA512)
+- - -> CONFIG5 DATA:(AES256, SHA512)
 - - \ -> HTML5 DATA:BASE64
 - - - \ -> APP DATA:BASE64
-- - - | -> APP CONTENT DATA:(AES256, SHA512)
-- - - | -> APP CONFIG DATA:(AES256, SHA512)
+- - - - -> APP CONTENT DATA:(AES256, SHA512)
+- - - - -> APP CONFIG DATA:(AES256, SHA512)
 
 ---
 
@@ -69,10 +69,10 @@ Next step will be the applications. By the princip we can put anything there. It
 *First the basics, we need:*
 - LOCAL_STORAGE DB that contains just DB of DB's in crypted, keyless content
 - \ ->USER, GROUP, ANONYMOUS
-- | ->READ, WRITE, UPDATE, REPLACE, DELETE, PRIVACY
-- | ->IPC-Y, NOTIFIER, ...
-- | ->GROUPS, BOARDS, BLOGS, CHATS, ...
-- | ->NETWORK, MESH, ...
+- - ->READ, WRITE, UPDATE, REPLACE, DELETE, PRIVACY
+- - ->IPC-Y, NOTIFIER, ...
+- - ->GROUPS, BOARDS, BLOGS, CHATS, ...
+- - ->NETWORK, MESH, ...
 
 The BASE64 will be a stablizer, to taint the AES256 DATA through the transport. It will need more traffic per process, but we reduce the rate of failed transmissions.
 
