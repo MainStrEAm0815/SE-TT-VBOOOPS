@@ -57,7 +57,7 @@ _The audience will run a own instance to itself. It may be configurable simplies
 - Upcoming :: Adding Features :: ToolBox :: Building configuration for Groups
 - Upcoming :: Adding Features :: ToolBox :: Building configuration for Chats
 - Upcoming :: Adding Features :: ToolBox :: Building configuration for Blogs
-- Upcoming :: Adding Features :: ToolBox :: Building configuration for Stlyes
+- Upcoming :: Adding Features :: ToolBox :: Building configuration for Styles
 - Upcoming :: Adding Features :: ToolBox :: Building configuration for Services
 
 _... step by step ..._
