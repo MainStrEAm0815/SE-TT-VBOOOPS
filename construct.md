@@ -82,4 +82,4 @@ Most popular platforms require a central server. We bypass that and are our own 
 
 Building friendships or equivalent relationships contains different options to share different contents between the servers and clients. So the servers coordinates the information transport. 
 
-*Shortenly said:* The essentials to build up a infrastructure.
+*Shortenly said:* The essentials to build up a [infrastructure](https://mainstream0815.github.io/SE-TT-VBOOOPS/).
