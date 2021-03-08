@@ -11,7 +11,7 @@ So congratualations first, that you found to be here right now! Top all these fo
 
 This is a very very crazy kind of all in one!
 
-## _Let's take a look inside of how to hell the code is [constructed](https://mainstream0815.github.io/SE-TT-VBOOOPS/construct)..._
+## _Let's take a look inside of how to hell the code is [constructed...](https://mainstream0815.github.io/SE-TT-VBOOOPS/construct)_
 
 Not just our homelands for, we start at the dance in plain/html. Here may nothing to be secret, to lets something to be secret for!
 
